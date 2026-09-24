@@ -3,11 +3,11 @@ Text classification is a Natural Language Processing task used to classify text 
 On the other hand, Topic modelling is an unsupervised technique used to detect underlying semantic strcutures in a corpus of textual documents. 
 This project revolves around how to develop and evaluate a text classifier for research papers by a combination of Supervised ML algorithms and an Unsupervised ML algorithm.
 
-**Outcome**- A machine learning pipeline designed to automatically classify Scientific research papers into categories such as Astrophysics, Mathematics, High-energy physics, Quantum-Physics, Quantitative-finance,General-relativity, Computer-science , Economics & Statistics.
-
 **Supervised - Linear Support Vector Machines, Random Forest, K-Nearest neighbors.**
 
 **Unsupervised - Latent Dirichlet Allocation.**
+
+**Outcome**- A machine learning pipeline designed to automatically classify Scientific research papers into categories such as Astrophysics, Mathematics, High-energy physics, Quantum-Physics, Quantitative-finance,General-relativity, Computer-science , Economics & Statistics.
 
 Here is the architecture of project,
 <img width="842" height="605" alt="image" src="https://github.com/user-attachments/assets/b590e4cc-65a8-4f30-8d31-677f4ea772e4" />
