@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+pyLDAvis
+nltk
+matplotlib
+Re
+scipy
+gensim
+joblib
+wordcloud
+json
+kagglehub
