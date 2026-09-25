@@ -10,7 +10,8 @@ This project revolves around how to develop and evaluate a text classifier for r
 **Outcome**- A machine learning pipeline designed to automatically classify Scientific research papers into categories such as Astrophysics, Mathematics, High-energy physics, Quantum-Physics, Quantitative-finance,General-relativity, Computer-science , Economics & Statistics.
 
 Here is the architecture of project,
-<img width="842" height="605" alt="image" src="https://github.com/user-attachments/assets/b590e4cc-65a8-4f30-8d31-677f4ea772e4" />
+
+<img width="613" height="457" alt="image" src="https://github.com/user-attachments/assets/97472b55-a631-4bf4-b5ef-50e9b8f7e1e4" />
 
 ## Installation & Setup
 Follow these quick setup steps to get the environment running on your local machine.
