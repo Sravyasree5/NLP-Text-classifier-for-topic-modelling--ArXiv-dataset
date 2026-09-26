@@ -11,9 +11,9 @@ This project revolves around how to develop and evaluate a text classifier for r
 
 Here is the architecture of project,
 
-<img width="613" height="457" alt="image" src="https://github.com/user-attachments/assets/97472b55-a631-4bf4-b5ef-50e9b8f7e1e4" />
+<img width="822" height="592" alt="image" src="https://github.com/user-attachments/assets/f7cfcf75-655e-4676-9556-f979f5649e82" />
 
-**Dataset Information**
+## **Dataset Information**
 **Dataset**: ArXiv dataset
 
 **Source**: Cornell University
@@ -25,11 +25,12 @@ The dataset was parsed into a subset consisting of 18000 research papers; 9 Pare
 
 During evaluation, it is acknowledged that Linear SVM outperformed the other 2 models.
 
+## **pyLDAvis**
 Interactive visualizing technique by pyLDAvis can be viewed here, 
 
 https://sravyasree5.github.io/NLP-Text-classifier-for-topic-modelling--ArXiv-dataset/
 
-**Performance metrics on Test set**
+## **Performance metrics on Test set**
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/21b33b5e-cb60-4367-b2e9-27b915983832" />
 
