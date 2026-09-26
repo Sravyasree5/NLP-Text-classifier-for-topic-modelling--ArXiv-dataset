@@ -13,6 +13,37 @@ Here is the architecture of project,
 
 <img width="613" height="457" alt="image" src="https://github.com/user-attachments/assets/97472b55-a631-4bf4-b5ef-50e9b8f7e1e4" />
 
+**Dataset Information**
+**Dataset**: ArXiv dataset
+
+**Source**: Cornell University
+
+**URL**: https://www.kaggle.com/datasets/Cornell-University/arxiv/data 
+OR    https://doi.org/10.5281/zenodo.15808027 
+
+The dataset was parsed into a subset consisting of 18000 research papers; 9 Parent groups, each of 2000 papers.The data was pre-processed before training & evaluating the models, with Stemming, lemmatization, Stop word removal and a few more. With that, the text was converted into vectors by TF-IDF Vectorization. 
+
+During evaluation, it is acknowledged that Linear SVM outperformed the other 2 models.
+
+**Performance metrics on Test set**
+
+<img width="650" height="482" alt="image" src="https://github.com/user-attachments/assets/21b33b5e-cb60-4367-b2e9-27b915983832" />
+
+**Confusion matrix of SVM**
+
+<img width="818" height="658" alt="image" src="https://github.com/user-attachments/assets/f06499b4-0fb7-4403-9dcf-72f7e52f9a90" />
+
+
+**Topic modelling results by LDA**
+
+Interactive visualizing technique can be viewed here, 
+<img width="928" height="672" alt="image" src="https://github.com/user-attachments/assets/6d921bfa-cb8a-4a90-9c1d-729628ee0009" />
+
+
+**Topic Visualization- pyLDAvis**
+
+<img width="1270" height="801" alt="image" src="https://github.com/user-attachments/assets/dca55773-9f35-4e7b-a315-3de3f059b1db" />
+
 ## Installation & Setup
 Follow these quick setup steps to get the environment running on your local machine.
 ### 1. Clone the repository
