@@ -25,25 +25,30 @@ The dataset was parsed into a subset consisting of 18000 research papers; 9 Pare
 
 During evaluation, it is acknowledged that Linear SVM outperformed the other 2 models.
 
+Interactive visualizing technique by pyLDAvis can be viewed here, 
+
+https://sravyasree5.github.io/NLP-Text-classifier-for-topic-modelling--ArXiv-dataset/
+
 **Performance metrics on Test set**
 
-<img width="650" height="482" alt="image" src="https://github.com/user-attachments/assets/21b33b5e-cb60-4367-b2e9-27b915983832" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/21b33b5e-cb60-4367-b2e9-27b915983832" />
 
 **Confusion matrix of SVM**
 
-<img width="818" height="658" alt="image" src="https://github.com/user-attachments/assets/f06499b4-0fb7-4403-9dcf-72f7e52f9a90" />
+<img width="759" height="615" alt="image" src="https://github.com/user-attachments/assets/f06499b4-0fb7-4403-9dcf-72f7e52f9a90" />
 
 
 **Topic modelling results by LDA**
 
-Interactive visualizing technique can be viewed here, 
-<img width="928" height="672" alt="image" src="https://github.com/user-attachments/assets/6d921bfa-cb8a-4a90-9c1d-729628ee0009" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6d921bfa-cb8a-4a90-9c1d-729628ee0009" />
 
 
-**Topic Visualization- pyLDAvis**  https://sravyasree5.github.io/NLP-Text-classifier-for-topic-modelling--ArXiv-dataset/
-index.html 
 
-<img width="1270" height="801" alt="image" src="https://github.com/user-attachments/assets/dca55773-9f35-4e7b-a315-3de3f059b1db" />
+
+
+**Topic Visualization- pyLDAvis**  
+
+<img width="883" height="542" alt="image" src="https://github.com/user-attachments/assets/10292f09-1b67-45fa-b4eb-2092d17a8976" />
 
 ## Installation & Setup
 Follow these quick setup steps to get the environment running on your local machine.
