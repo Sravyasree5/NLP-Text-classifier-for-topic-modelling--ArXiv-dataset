@@ -40,7 +40,8 @@ Interactive visualizing technique can be viewed here,
 <img width="928" height="672" alt="image" src="https://github.com/user-attachments/assets/6d921bfa-cb8a-4a90-9c1d-729628ee0009" />
 
 
-**Topic Visualization- pyLDAvis**
+**Topic Visualization- pyLDAvis**  https://sravyasree5.github.io/NLP-Text-classifier-for-topic-modelling--ArXiv-dataset/
+index.html 
 
 <img width="1270" height="801" alt="image" src="https://github.com/user-attachments/assets/dca55773-9f35-4e7b-a315-3de3f059b1db" />
 
