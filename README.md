@@ -51,6 +51,19 @@ https://sravyasree5.github.io/NLP-Text-classifier-for-topic-modelling--ArXiv-dat
 
 <img width="883" height="542" alt="image" src="https://github.com/user-attachments/assets/10292f09-1b67-45fa-b4eb-2092d17a8976" />
 
+
+## Future works
+-> Use the model for classifying astrophysics, high-energy physics, general-relativity, mathematics, statistics, economics, quantum-physics, quantitaive-finance and computer-science research papers.
+
+-> Hyperparameter tuning.
+
+-> Appending deep learning methods, LLMs, Neural networks. 
+
+-> Containerize with docker.
+
+-> Develop into web application using Streamlit or any suitable technique.
+
+-> Integrate with research websites to automate classification.
 ## Installation & Setup
 Follow these quick setup steps to get the environment running on your local machine.
 ### 1. Clone the repository
